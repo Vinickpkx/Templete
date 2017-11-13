@@ -1,0 +1,54 @@
+.nav {
+    margin: 39px 0px;
+    font-size: 10px;
+}
+.navimg {
+    margin: 39px 75px;
+    width: 57px;
+    height: 57px;
+}
+nav > ul {
+    list-style: none;
+    height: 15px;
+    width: 500px;
+    padding: 0px;
+    margin: 60px 50px;
+    float: right;
+}
+ nav > ul > li {
+    float: left;
+    margin: 0px 15px;
+    width: 70px;
+    font-size: 10px;
+    height: 15px;
+}
+nav > p{
+    margin: 0px;
+    text-align: center
+}
+nav {
+    min-width: 855px;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(232, 174, 38);
+}
+a > p {
+    color: black
+}
+a:hover p {
+    color: black
+}
+ul {
+    list-style: none
+}
+.teste {
+    width: 400px;
+    height: 400px;
+    float: left; 
+}
+.menu {
+    width: 1000px;
+    height: 800px;
+    margin: 0 auto;
+    background-color: rgba(232, 174, 38, 0.83);
+}
